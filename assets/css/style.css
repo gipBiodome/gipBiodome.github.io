@@ -216,7 +216,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  background: #cc1616;
+  background: #008000;
 }
 .navbar .dropdown ul {
   display: block;
@@ -328,7 +328,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #191919;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #cc1616;
+  color: #008000;
   background: none;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
@@ -355,7 +355,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #cc1616;
+  color: #008000;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -499,7 +499,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #cc1616;
+  color: #008000;
 }
 .about .content p:last-child {
   margin-bottom: 0;
