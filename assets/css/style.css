@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #cc1616;
+  color: #008000;
   text-decoration: none;
 }
 
 a:hover {
-  color: #e82d2d;
+  color: #008000;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #cc1616;
+  background: #008000;
   width: 40px;
   height: 40px;
   transition: all 0.4s;
@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #e72323;
+  background: #008000;
   color: #fff;
 }
 .back-to-top.active {
@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #cc1616;
+  border: 6px solid #008000;
   border-top-color: #efefef;
   border-radius: 50%;
   width: 60px;
@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #topbar .contact-info i {
-  color: #cc1616;
+  color: #008000;
   line-height: 0;
   margin-right: 5px;
 }
@@ -282,7 +282,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
 }
 .mobile-nav-toggle.bi-x {
-  color: #cc1616;
+  color: #008000;
 }
 
 @media (max-width: 991px) {
@@ -406,8 +406,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #hero .btn-get-started:hover {
-  background: #cc1616;
-  border-color: #cc1616;
+  background: #008000;
+  border-color: #008000;
 }
 @media (min-width: 1024px) {
   #hero {
