@@ -1167,7 +1167,7 @@ section {
 }
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #ed5b5b;
+  color: #008000;
   font-size: 18px;
   line-height: 1;
 }
@@ -1186,7 +1186,7 @@ section {
   line-height: 1;
 }
 #footer .footer-top .footer-links ul a:hover {
-  color: #eb4444;
+  color: #008000;
 }
 #footer .footer-top .footer-newsletter form {
   margin-top: 30px;
@@ -1229,7 +1229,7 @@ section {
   color: #fff;
 }
 #footer .credits a {
-  color: #e82d2d;
+  color: #008000;
 }
 @media (max-width: 575px) {
   #footer .footer-top .footer-info {
