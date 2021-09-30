@@ -547,27 +547,6 @@ section {
 /*--------------------------------------------------------------
 # Clients
 --------------------------------------------------------------*/
-.clients {
-  background: #f2f2f2;
-  padding: 15px 0;
-  text-align: center;
-}
-.clients img {
-  width: 50%;
-  filter: grayscale(100);
-  transition: all 0.4s ease-in-out;
-  display: inline-block;
-  padding: 15px 0;
-}
-.clients img:hover {
-  filter: none;
-  transform: scale(1.2);
-}
-@media (max-width: 768px) {
-  .clients img {
-    width: 40%;
-  }
-}
 
 /*--------------------------------------------------------------
 # Services
