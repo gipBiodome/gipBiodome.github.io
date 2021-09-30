@@ -520,7 +520,7 @@ section {
   display: block;
   font-size: 28px;
   font-weight: 700;
-  color: #ed5b5b;
+  color: #008000;
 }
 .why-us .box h4 {
   font-size: 24px;
@@ -536,7 +536,7 @@ section {
   padding: 0;
 }
 .why-us .box:hover {
-  background: #cc1616;
+  background: #008000;
   padding: 30px 30px 70px 30px;
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
 }
@@ -582,7 +582,7 @@ section {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #cc1616;
+  background: #008000;
   transition: all 0.3s ease-out 0s;
   display: flex;
   align-items: center;
